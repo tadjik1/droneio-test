@@ -3,7 +3,7 @@ function sum(a, b) {
     throw new TypeError();
   }
 
-  return a + b;
+  return a - b;
 }
 
 module.exports = sum;
