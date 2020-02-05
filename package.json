@@ -1,0 +1,24 @@
+{
+  "name": "droneio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:ci": "mocha --reporter json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadjik1/droneio-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadjik1/droneio-test/issues"
+  },
+  "homepage": "https://github.com/tadjik1/droneio-test#readme",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
